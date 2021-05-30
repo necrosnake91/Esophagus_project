@@ -9,5 +9,5 @@ Pipeline empleado:
 
 ![pipeline](./Slides/Screenshots/Pipeline.png)
 
-En este enlace encontrarás [la presentación]()
+En este enlace encontrarás [la presentación](https://necrosnake91.github.io/Esophagus_project/Slides/MANEC_DNA_Seq.html#1)
 
